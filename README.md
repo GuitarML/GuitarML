@@ -4,7 +4,7 @@
 
 - Creating guitar pluigns that use machine learning to emulate real amps and pedals.
 - Creating amp and pedal captures to use in my plugins: [ToneLibrary](https://guitarml.com/tonelibrary/tonelib-pro.html)
-- Building DIY effects hardware 
+- Building DIY effects [hardware](https://github.com/GuitarML/NeuralSeed) 
 - Making tutorials and demos on [YouTube](https://www.youtube.com/channel/UCs6ZGZKGoxV9JadxESOtx1Q)
 - Writing about the tech used in my software on [Medium](https://medium.com/@keyth72)
 - Working with local Universities: [UAH Research Project](https://guitarml.com/research.html)
