@@ -2,6 +2,7 @@
 
 ### Things I'm doing
 
+- Developing the [FunBox](https://github.com/GuitarML/FunBox), a stereo pedal platform designed around the Daisy Seed.
 - Creating guitar plugins that use machine learning to emulate real amps and pedals.
 - Creating amp and pedal captures to use in my plugins: [ToneLibrary](https://guitarml.com/tonelibrary/tonelib-pro.html)
 - Building DIY effects [hardware](https://github.com/GuitarML/Seed) 
