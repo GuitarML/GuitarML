@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### Things I'm doing
+- Developing a [Custom STM32 Guitar Pedal](https://github.com/GuitarML/GuitarPedalSTM32), a SMD pcb mono pedal platform with expression input using a STM32H7B0 microcontroller.
 - Developing the [SoundSketch](https://github.com/GuitarML/SoundSketch), a SMD pcb stereo pedal platform designed around the Daisy Seed.
 - Developing the [FunBox](https://github.com/GuitarML/FunBox), a thru hole pcb stereo pedal platform designed around the Daisy Seed.
 - Creating guitar plugins that use machine learning to emulate real amps and pedals.
